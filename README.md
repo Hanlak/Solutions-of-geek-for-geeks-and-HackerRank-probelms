@@ -1,2 +1,2 @@
 # JavaPrograms
-A list of Geek for Geeks java problems and solutions
+A list of Geek for Geeks and hackerrank solutions
